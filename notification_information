@@ -1,3 +1,2 @@
 status = "T"
-info = "Hiện tại tools chỉ chạy được hotmail checker sau mấy ngày nữa admin sẽ update: Hotmail Search Inbox
-Api Check Verify vì Api cũ đã fix"
+info = "Api gửi hit về telegram chống vps die khi ae chạy hoặc thông báo mỗi khi ra hit chưa chạy được, muốn chỉnh keyword ấn vào settings nhé"
