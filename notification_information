@@ -1,2 +1,2 @@
 status = "T"
-info = "Api gửi hit về telegram chống vps die khi ae chạy hoặc thông báo mỗi khi ra hit chưa chạy được, muốn chỉnh keyword ấn vào settings nhé"
+info = "Vui lòng kiểm tra token telegram trước khi dùng bot, tránh việc bị lộ hit"
